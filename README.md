@@ -2,22 +2,22 @@
 
 Um projeto simples de **ícones de redes sociais com efeito neumorphism** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar **social icons com estilo neumorphism**, com um visual moderno ideal para apresentações ou teaser videos.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS (box-shadow, neumorphism)
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Ícones de redes sociais estilizados
 - Efeito neumorphism
 - Design moderno e minimalista
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador  
